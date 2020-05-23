@@ -1,0 +1,6 @@
+App To Do...
+
+- Create GitHub repository
+- Upload empty project to master branch
+- Lauren & Liam make changes (PUSH / PULL)
+- Create new branches and test
